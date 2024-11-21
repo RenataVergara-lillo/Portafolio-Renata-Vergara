@@ -1,46 +1,216 @@
 <!DOCTYPE html>
-<html lang="en" data-bs-theme="auto">
-    <head>
+<html lang="es" data-bs-theme="auto">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <title>Renata Vergara Lillo</title>
-    <meta name="description" content="Work. Archive">
-    <meta name="keywords" content="Diseño industrial, gráfico, servicios">
+    <meta name="description" content="Portafolio de Diseño Integral, proyectos destacados en diseño gráfico, industrial y de servicios.">
+    <meta name="keywords" content="Diseño Integral, diseño gráfico industrial, servicios, portafolio">
     <meta name="robots" content="index, nofollow">
     <link rel="canonical" href="https://rvergaralillo.cl/">
 
-<!-- Primary Meta Tags -->
-<title>Renata Vergara Lillo</title>
-<meta name="title" content="Work. Archive" />
-<meta name="description" content="Diseño industrial, gráfico, servicios" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
 
-<!-- Open Graph / Facebook -->
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://rvergaralillo.cl/" />
-<meta property="og:title" content="Renata Vergara Lillo" />
-<meta property="og:description" content="Portafolio de Diseño Gráfico, Industrial y de Servicios" />
-<meta property="og:image" content="https://metatags.io/images/meta-tags.png" />
+    <style>
+        body {
+            font-family: Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff;
+            color: #000;
+        }
 
+        header {
+            background-color: #000;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
 
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content="https://rvergaralillo.cl/" />
-<meta property="twitter:title" content="Renata Vergara Lillo" />
-<meta property="twitter:description" content="Portafolio de Diseño Gráfico, Industrial y de Servicios" />
-<meta property="twitter:image" content="https://metatags.io/images/meta-tags.png" />
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
 
-<!-- Meta Tags Generated with https://metatags.io -->
+        header p {
+            font-size: 1.2rem;
+            margin: 10px 0 0;
+        }
 
-  <!-- Estilo CSS -->
-  <style type="text/css">
-    body {
-      font-family: 'League Script', cursive; /* fuente League Script */
-      text-align: center;
-    }
-  </style>
+        .navbar-nav .nav-link {
+            color: #F2E4BB !important; /* Color claro para los enlaces */
+        }
+
+        .navbar-nav .nav-link:hover {
+            color: #F2CD5C !important; /* Color cuando el mouse pasa por encima */
+        }
+
+        .project-section {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 50px 10%;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-section:nth-child(even) {
+            flex-direction: row-reverse;
+        }
+
+        .project-image {
+            flex: 1;
+            max-width: 50%;
+            transition: transform 0.3s ease;
+        }
+
+        .project-image:hover {
+            transform: scale(1.1);
+        }
+
+        .text-container {
+            flex: 1;
+            max-width: 50%;
+            background-color: #fff;
+            color: #000;
+            padding: 20px;
+            opacity: 0;
+            transform: translateY(20px);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+
+        .project-section:hover .text-container {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        .text-container h1 {
+            font-size: 1.8rem;
+            margin: 0;
+        }
+
+        .text-container h2 {
+            font-size: 1.2rem;
+            margin: 10px 0 5px;
+        }
+
+        .text-container p {
+            font-size: 1rem;
+        }
+
+        footer {
+            background-color: #f8f9fa;
+            color: #000;
+            text-align: center;
+            padding: 10px;
+            margin-top: 50px;
+        }
+    </style>
 </head>
 <body>
-  <h1>Página en construcción...</h1>
+
+    <!-- Barra de Navegación -->
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #0D0D0D;">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Renata Vergara Lillo</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#inicio">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#proyectos">Proyectos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <h1>Renata Vergara Lillo</h1>
+        <p>Portafolio de Diseño Gráfico, Industrial y de Servicios</p>
+    </header>
+
+    <!-- Sección Proyectos -->
+    <main>
+        <section id="inicio" class="container py-5">
+            <h1>Bienvenido a Mi Portafolio</h1>
+            <p>Explora mis proyectos en Diseño Gráfico, Industrial y de Servicios.</p>
+        </section>
+
+        <div id="proyectos" class="project-section">
+            <img src="https://github.com/user-attachments/assets/86f61044-5fad-4bee-8bbd-7807190efa46" alt="Proyecto 1" class="project-image">
+            <div class="text-container">
+                <h1>CAMPAÑA DE SENSIBILIZACIÓN</h1>
+                <h2>DISEÑO DE SERVICIOS</h2>
+                <p>2024</p>
+            </div>
+        </div>
+
+        <div class="project-section">
+            <img src="https://github.com/user-attachments/assets/96ea61cc-eb84-4944-846a-ca9c24d42efb" alt="Proyecto 2" class="project-image">
+            <div class="text-container">
+                <h1>AMELIÉ</h1>
+                <h2>DISEÑO GRÁFICO</h2>
+                <p>2024</p>
+            </div>
+        </div>
+
+        <div class="project-section">
+            <img src="https://github.com/user-attachments/assets/34334602-735a-4fee-9de3-3f68b3f4b041" alt="Proyecto 3" class="project-image">
+            <div class="text-container">
+                <h1>YUNUS</h1>
+                <h2>DISEÑO INDUSTRIAL</h2>
+                <p>2023</p>
+            </div>
+        </div>
+
+        <div class="project-section">
+            <img src="https://github.com/user-attachments/assets/5e9f585d-cb3a-4f2b-9bda-0ca8e753f3a5" alt="Proyecto 4" class="project-image">
+            <div class="text-container">
+                <h1>MONARCA</h1>
+                <h2>DISEÑO INDUSTRIAL</h2>
+                <p>2023</p>
+            </div>
+        </div>
+
+        <div class="project-section">
+            <img src="https://github.com/user-attachments/assets/d9880f41-9b95-49e4-9251-c7a00566a81d" alt="Proyecto 5" class="project-image">
+            <div class="text-container">
+                <h1>EQUITA</h1>
+                <h2>DISEÑO DE SERVICIOS</h2>
+                <p>2024</p>
+            </div>
+        </div>
+
+        <div class="project-section">
+            <img src="https://github.com/user-attachments/assets/9e160cf9-62c9-447b-9d62-f4a6955b00c5" alt="Proyecto 6" class="project-image">
+            <div class="text-container">
+                <h1>MELISSA</h1>
+                <h2>DISEÑO GRÁFICO</h2>
+                <p>2024</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Renata Vergara Lillo. Todos los derechos reservados.</p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
