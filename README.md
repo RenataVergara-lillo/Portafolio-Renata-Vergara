@@ -55,3 +55,6 @@ https://carrot.tech/?ref=godly : Destaco el estilo vibrante y moderno con colore
 
 ¿Qué existe que puede inspirar la propuesta?
 ![Sin título](https://github.com/user-attachments/assets/bb81e333-4e57-4731-a9cf-7ed3c100a3a6)
+
+
+![Portada](https://github.com/user-attachments/assets/a7dfd171-14a7-4a44-8e45-e33197802afe)
