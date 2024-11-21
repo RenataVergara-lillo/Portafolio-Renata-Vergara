@@ -105,12 +105,13 @@ a:hover {
 .text-container {
     flex: 1;
     max-width: 50%;
-    background-color: #fff; /* Mantener el fondo blanco para el texto */
-    color: #000;
+    color: var(--color-text); /* Mantener el texto claro */
     padding: 20px;
     opacity: 0;
     transform: translateY(20px);
     transition: opacity 0.3s ease, transform 0.3s ease;
+    background-color: transparent !important; /* Elimina el fondo blanco, ahora es transparente */
+    box-shadow: none !important; /* Asegura que no haya sombra de fondo blanca o colorida */
 }
 
 .project-section:hover .text-container {
