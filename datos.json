@@ -1,0 +1,57 @@
+[
+    {
+        "nombre": "TESTEA TU ESTIGMA",
+        "descripcion": "Sistema de información que propicia la desestigmatización del cáncer de pulmón, a través procedimientos narrativos e informativos en medios múltiples con el fin de educar y cambiar la perspectiva general que se tiene sobre la enfermedad. Este sistema consiste en una campaña de sensibilización a través de afiches con códigos QR que llevan al test de Verdadero y Falso, para posteriormente conectar con la página web. Todo esto con el objetivo de contrastar ideas preconcebidas con la realidad de las personas con cáncer de pulmón. Proyecto realizado en conjunto con Martina Altamirano, José Tomás Araneda, José Cueto, Olivia Bacigalupo, Camila Rico y Noel Soler.",
+        "subtitulo": "Diseño de Información",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/estigma.webp",
+        "fotos": [
+        "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/estigma-0.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/estigma-1.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/estigma-2.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/estigma-4.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "AMELIÉ",
+        "descripcion": "Ideograma basado en la película francesa Amelié inspirado en el estilo Isotype. Para esto se desarrolló una familia de íconos con los elementos esenciales del film y,posteriormente, se realizó una composición con estos componentes. Proyecto realizado en conjunto con Martina Altamirano, Olivia Bacigalupo, Camila Rico y Noel Soler.",
+        "subtitulo": "Diseño Gráfico",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/amelie.webp",
+        "fotos": ["https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/amelie-0.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/amelie-1.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "CATÁLOGO MELISSA",
+        "descripcion": "Melissa es una marca de moda brasileña que se destaca por el uso del material Meflex para sus productos, en donde realicé mi práctica profesional. Este proyecto se basó en el diseño del catálogo de productos en Chile, desde las distintas colaboraciones icónicas hasta los productos iniciales de la empresa.",
+        "subtitulo": "Diseño Gráfico",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/catalogo.webp",
+        "fotos": ["https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/catalogo-0.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/catalogo-1.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/catalogo-2.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/catalogo-3.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+     {
+        "nombre": "REDES SOCIALES MELISSA",
+        "descripcion": "Melissa es una marca de moda brasileña que se destaca por el uso del material Meflex para sus productos, en donde realicé mi práctica profesional. Dentro de mis tareas en la empresa, me encargué de generar contenido gráfico para redes sociales, principalmente para Instagram.",
+        "subtitulo": "Diseño Gráfico",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/rrss-0.webp",
+        "fotos": ["https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/rrss-1.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/rrss-2.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/rrss-3.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "EQUITA",
+        "descripcion": "En el Student Service Design Challenge 2024, participamos en el desafío presentado por Philips: «Cómo revertir la fragmentación en la experiencia del cuidado de la salud», obteniendo el segundo lugar. Equita es una plataforma digital integral diseñada para reducir la violencia gineco-obstétrica y mejorar la salud reproductiva y ginecológica en Chile. Nos enfocamos en utilizar el tiempo de consulta de manera eficiente para abordar las ineficiencias del sistema de salud, acortar las brechas y fomentar un entorno de apoyo, respeto y eficiencia. Nuestro objetivo fue transformar la relación paciente-profesional, al integrar la salud sexual y reproductiva en la vida cotidiana de las personas con útero, y reducir la carga de trabajo de los especialistas para que puedan prestar servicios más personalizados, con una visión de implementación nacional para fortalecer la salud reproductiva en Chile. Este proyecto fue desarrollado en conjunto con Sofía Rizzoli, Francisca Valenzuela, Valeria Sawady, Josefina Rojas, Renata Ramos y María Borquez.",
+        "subtitulo": "Diseño de Servicios",
+        "fecha": "2024",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/equita.webp",
+        "fotos": ["https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/equita-0.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/equita-1.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/equita-2.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/equita-4.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    },
+    {
+        "nombre": "MONARCA",
+        "descripcion": "MONARCA es una mesa de cocktail para 4 personas que quieren tomar su trago durante un evento social, como un matrimonio, bautizo, cumpleaños, aniversario, etc. Surge del análisis de la silla REYES de Brad Ascalon, del cual se rescata el uso de formas geométricas simples y la sensación de estar haciendo equilibrio.",
+        "subtitulo": "Diseño Industrial",
+        "fecha": "2023",
+        "foto": "https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/monarca.webp",
+        "fotos": ["https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/monarca-0.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/monarca-2.webp","https://raw.githubusercontent.com/RenataVergara-lillo/Portafolio-Renata-Vergara/refs/heads/main/assets/monarca-3.webp"],
+        "github": "https://github.com/RenataVergara-lillo"
+    }
+]
