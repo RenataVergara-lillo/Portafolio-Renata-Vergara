@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_26" data-name="Capa 26" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920.24 660.06">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #343ee1;
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 175px;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.02em;
+      }
+    </style>
+  </defs>
+  <text class="cls-2" transform="translate(280.31 155.87)"><tspan x="0" y="0">R </tspan><tspan class="cls-3" x="0" y="210" xml:space="preserve">										</tspan><tspan x="252" y="210">V</tspan><tspan class="cls-3" x="0" y="420" xml:space="preserve">				</tspan><tspan class="cls-4" x="100.8" y="420">L</tspan></text>
+  <text class="cls-2" transform="translate(636.91 155.89)"><tspan x="0" y="0">E </tspan><tspan class="cls-3" x="0" y="210" xml:space="preserve">										</tspan><tspan class="cls-1" x="252" y="210">T</tspan><tspan class="cls-3" x="0" y="420" xml:space="preserve">				</tspan><tspan x="100.8" y="420">I</tspan></text>
+</svg>
